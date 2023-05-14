@@ -1,0 +1,2 @@
+rootProject.name='Speech Synthesis Pro'
+include ':app'
